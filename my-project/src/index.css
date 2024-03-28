@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.parent-bg{
+    background-image: url(../assets/agency-bg.png);
+    position: absolute;
+}
